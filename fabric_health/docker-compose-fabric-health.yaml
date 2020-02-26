@@ -1,0 +1,10 @@
+version: '2'
+services:
+ fabric_health:
+   image: fabric_health:node
+   build:
+     context: .
+   ports:
+     - 9091:9091
+   container_name: fabric_health
+   network_mode: host
