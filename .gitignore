@@ -116,3 +116,5 @@ crypto/*
 artifacts/src/github.com/golang
 artifacts/src/github.com/pkg
 artifacts/src/github.com/hyperledger
+artifacts/src/github.com/fabcar/go/vendor
+artifacts/src/github.com/fabcar/go/go.sum
